@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919512624348",
+    "project_id": "fir-cadastro-c0ce4",
+    "storage_bucket": "fir-cadastro-c0ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919512624348:android:bf09cbbbdd0c9c08fe9819",
+        "android_client_info": {
+          "package_name": "com.example.firebasecadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lf89v7hy1ltMJ3DPeGFlYb6rTq0ZB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
